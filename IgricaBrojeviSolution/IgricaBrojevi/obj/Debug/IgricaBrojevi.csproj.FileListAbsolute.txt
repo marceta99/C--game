@@ -1,0 +1,10 @@
+C:\Users\nov lud\Desktop\IgricaBrojeviSolution\IgricaBrojevi\bin\Debug\IgricaBrojevi.exe.config
+C:\Users\nov lud\Desktop\IgricaBrojeviSolution\IgricaBrojevi\bin\Debug\IgricaBrojevi.exe
+C:\Users\nov lud\Desktop\IgricaBrojeviSolution\IgricaBrojevi\bin\Debug\IgricaBrojevi.pdb
+C:\Users\nov lud\Desktop\IgricaBrojeviSolution\IgricaBrojevi\obj\Debug\IgricaBrojevi.csprojAssemblyReference.cache
+C:\Users\nov lud\Desktop\IgricaBrojeviSolution\IgricaBrojevi\obj\Debug\IgricaBrojevi.Form1.resources
+C:\Users\nov lud\Desktop\IgricaBrojeviSolution\IgricaBrojevi\obj\Debug\IgricaBrojevi.Properties.Resources.resources
+C:\Users\nov lud\Desktop\IgricaBrojeviSolution\IgricaBrojevi\obj\Debug\IgricaBrojevi.csproj.GenerateResource.cache
+C:\Users\nov lud\Desktop\IgricaBrojeviSolution\IgricaBrojevi\obj\Debug\IgricaBrojevi.csproj.CoreCompileInputs.cache
+C:\Users\nov lud\Desktop\IgricaBrojeviSolution\IgricaBrojevi\obj\Debug\IgricaBrojevi.exe
+C:\Users\nov lud\Desktop\IgricaBrojeviSolution\IgricaBrojevi\obj\Debug\IgricaBrojevi.pdb
